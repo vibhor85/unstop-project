@@ -1,0 +1,17 @@
+.Nav-item {
+    display: flex;
+    width: 90px;
+    height: 70px;
+    padding: 10px 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+}
+
+.Nav-item img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
